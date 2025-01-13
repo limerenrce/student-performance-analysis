@@ -19,6 +19,7 @@ The objective of this project is to:
 ## Features
 
 The dataset contains the following features:
+```
 1 school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
 2 sex - student's sex (binary: 'F' - female or 'M' - male)
 3 age - student's age (numeric: from 15 to 22)
@@ -54,6 +55,7 @@ The dataset contains the following features:
 31 G1 - first period grade (numeric: from 0 to 20)
 31 G2 - second period grade (numeric: from 0 to 20)
 32 G3 - final grade (numeric: from 0 to 20, output target)
+```
 
 The target variable (label) is:
 - **final_grade**: Final grade category (Poor, Fair, Good).
